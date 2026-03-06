@@ -1,0 +1,25 @@
+Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
+C1	1	10μF				Capacitor_SMD:C_0805_2012Metric	~
+C2,C11	2	2.2uF				Capacitor_SMD:C_0805_2012Metric	~
+C3,C15,C17,C19,C22	5	10μF				Capacitor_SMD:C_1206_3216Metric	~
+C4,C6,C7,C8,C9,C12,C16,C18,C20,C24,C25	11	100nF				Capacitor_SMD:C_0805_2012Metric	~
+C5,C26,C27	3	1uF				Capacitor_SMD:C_0805_2012Metric	~
+C10,C29	2	10uF				Capacitor_SMD:C_1206_3216Metric	~
+C13,C14	2	18pF				Capacitor_SMD:C_0805_2012Metric	~
+C21,C23	2	4.7μF				Capacitor_SMD:C_0805_2012Metric	~
+C28	1	100pF				Capacitor_SMD:C_0805_2012Metric	~
+D1	1	D_Schottky				Diode_SMD:D_SOD-123	~
+FB1,FB2	2	FerriteBead				Inductor_SMD:L_0805_2012Metric	~
+H1,H2,H3,H4	4	MountingHole		Excluded from BOM		MountingHole:MountingHole_3mm	~
+J1	1	Conn_02x03_Top_Bottom				Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical	~
+J2	1	SWD_Header				Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical	~
+J3	1	UART_Header				Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical	~
+J5	1	AudioJack3				Connector_Audio:Jack_3.5mm_CUI_SJ1-3523N_Horizontal	~
+R1,R4,R5,R6,R7,R8,R9	7	10K				Resistor_SMD:R_0805_2012Metric	~
+R2	1	2.2K				Resistor_SMD:R_0805_2012Metric	~
+R3	1	2.2k				Resistor_SMD:R_0805_2012Metric	~
+U1	1	STM32F405RGT6				My footprints:QFP50P1200X1200X160-64N	
+U2	1	AP2112K-3.3				Package_TO_SOT_SMD:SOT-23-5	https://www.diodes.com/assets/Datasheets/AP2112.pdf
+U3	1	PCM3060PWR				My footprints:SOP65P640X120-28N	
+U4	1	NE5532				Package_SO:SOIC-8_3.9x4.9mm_P1.27mm	http://www.ti.com/lit/ds/symlink/ne5532.pdf
+Y1	1	16MHz				Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering	~
