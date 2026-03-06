@@ -1,8 +1,9 @@
-![Screenshot 2026-03-06 163313.png](attachment:1b98f81b-bb30-43f6-9482-c47c0ccb010e:Screenshot_2026-03-06_163313.png)
+
+<img width="1374" height="687" alt="Screenshot 2026-03-06 233304" src="https://github.com/user-attachments/assets/ec14859a-abe4-4e31-869a-dc00224c8c40" />
 
 **Shori PCB Layout:**
 
-![Screenshot 2026-03-05 185120.png](attachment:f59b4c56-599e-4514-8698-dee8665a75e0:Screenshot_2026-03-05_185120.png)
+<img width="1502" height="701" alt="image" src="https://github.com/user-attachments/assets/0a8796b9-2208-4073-8e81-fc9f31945ec6" />
 
 ### What is this project?
 
@@ -66,3 +67,4 @@ total price is around 78.64 euros.
 - Add filtering for the audio input and output to the codec for optimal performance.
 
 Thank you!
+
